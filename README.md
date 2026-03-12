@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ismael Elsayed</h1>
-<h3 align="center">Data Engineer | Building Scalable Data Pipelines</h3>
+<h3 align="center">Data Engineer | Scalable Data Pipelines | Big Data Systems</h3>
 
 <p align="center">
-Designing modern data architectures, scalable pipelines, and real-time data systems.
+Designing modern data architectures, high-performance data pipelines, and real-time data platforms.
 </p>
 
 <p align="center">
@@ -11,50 +11,95 @@ Designing modern data architectures, scalable pipelines, and real-time data syst
 
 <hr>
 
-<h2>🚀 About Me</h2>
+<h2>🚀 Professional Summary</h2>
+
+<p>
+I am a Data Engineer focused on building scalable and reliable data systems that transform raw data into actionable insights.
+My work involves designing ETL/ELT pipelines, big data processing architectures, real-time streaming systems,
+and modern data platforms that support analytics and business intelligence.
+</p>
 
 <ul>
-<li>Data Engineer passionate about building reliable data systems</li>
-<li>Experience with large-scale data processing</li>
-<li>Focused on ETL pipelines and data architecture</li>
-<li>Interested in real-time analytics and big data platforms</li>
+<li>Designing scalable <b>Data Pipeline Architectures</b></li>
+<li>Building <b>ETL / ELT workflows</b></li>
+<li>Processing <b>large-scale datasets</b></li>
+<li>Developing <b>real-time streaming pipelines</b></li>
+<li>Designing <b>data warehouses and data lakes</b></li>
 </ul>
 
 <hr>
 
 <h2>🛠 Tech Stack</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=linux" />
-</p>
+<h3>Programming</h3>
 
 <p>
-<img src="https://img.shields.io/badge/SQL-Data%20Engineering-blue" />
-<img src="https://img.shields.io/badge/Apache-Spark-orange" />
-<img src="https://img.shields.io/badge/Apache-Kafka-black" />
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
+
+<h3>Data Engineering & Big Data</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Apache-Spark-orange?logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-Kafka-black?logo=apachekafka"/>
+<img src="https://img.shields.io/badge/Apache-Hadoop-yellow?logo=apachehadoop"/>
+<img src="https://img.shields.io/badge/Apache-Hive-yellow"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-blue"/>
+<img src="https://img.shields.io/badge/Data%20Warehouse-green"/>
+<img src="https://img.shields.io/badge/Data%20Lake-blue"/>
+</p>
+
+<h3>Databases</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<img src="https://img.shields.io/badge/SQL-Database-blue"/>
+<img src="https://img.shields.io/badge/SSMS-Microsoft-blue"/>
+</p>
+
+<h3>Data Integration</h3>
+
+<p>
+<img src="https://img.shields.io/badge/SSIS-ETL%20Tool-purple"/>
+</p>
+
+<h3>Data Visualization & Apps</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi"/>
+<img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
+</p>
+
+<h3>DevOps & Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=linux" height="40"/>
 </p>
 
 <hr>
 
-<h2>📊 Data Engineering Workflow</h2>
+<h2>📊 Data Engineering Architecture</h2>
 
 <pre>
 Data Sources
-      │
-      ▼
-Data Ingestion
-      │
-      ▼
-Data Processing
-      │
-      ▼
-Data Storage
-      │
-      ▼
-Analytics & Dashboards
+   │
+   ▼
+Data Ingestion (APIs / Streaming / Batch)
+   │
+   ▼
+Data Processing (Spark / Python)
+   │
+   ▼
+Storage Layer
+(Data Lake / Data Warehouse)
+   │
+   ▼
+Analytics & Visualization
+(Power BI / Dashboards)
 </pre>
 
 <hr>
@@ -62,33 +107,49 @@ Analytics & Dashboards
 <h2>📂 Featured Projects</h2>
 
 <h3>Scalable Data Pipeline</h3>
+
 <p>
-A data pipeline for ingesting, processing, and storing large datasets.
+A modern data pipeline designed to ingest, transform, and store large datasets for analytics and reporting.
 </p>
 
-<b>Technologies:</b>
+<b>Technologies</b>
+
 Python | Spark | SQL | Docker
 
 <br><br>
 
-<h3>Real-Time Data Streaming</h3>
+<h3>Real-Time Streaming System</h3>
 
 <p>
-Streaming pipeline built using Kafka and Spark for real-time analytics.
+A real-time streaming architecture using distributed messaging and processing frameworks.
 </p>
 
-<b>Technologies:</b>
+<b>Technologies</b>
+
 Kafka | Spark Streaming | Python
+
+<br><br>
+
+<h3>Data Warehouse Analytics Platform</h3>
+
+<p>
+A structured analytics platform that integrates multiple data sources into a centralized warehouse
+for business intelligence dashboards.
+</p>
+
+<b>Technologies</b>
+
+SQL | SSIS | Power BI
 
 <hr>
 
-<h2>📈 GitHub Stats</h2>
+<h2>📈 GitHub Statistics</h2>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
 
 </p>
 
