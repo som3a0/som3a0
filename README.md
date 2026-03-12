@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Ismael Elsayed</h1>
 <h3 align="center">Data Engineer | Scalable Data Pipelines | Big Data Systems</h3>
 
@@ -89,55 +88,3 @@ Storage Layer
    ▼
 Analytics & Visualization
 (Power BI / Dashboards)
-```
-
-<hr>
-
-## 📂 Featured Projects
-
-### Scalable Data Pipeline
-A modern data pipeline designed to ingest, transform, and store large datasets for analytics and reporting.
-
-**Technologies:** Python | Spark | SQL | Docker
-
-### Real-Time Streaming System
-A real-time streaming architecture using distributed messaging and processing frameworks.
-
-**Technologies:** Kafka | Spark Streaming | Python
-
-### Data Warehouse Analytics Platform
-A structured analytics platform that integrates multiple data sources into a centralized warehouse for business intelligence dashboards.
-
-**Technologies:** SQL | SSIS | Power BI
-
-<hr>
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=som3a0&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som3a0&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<hr>
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/ismael-khalifa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/som3a0">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories.
-</p>
-```
