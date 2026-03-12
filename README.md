@@ -1,76 +1,115 @@
-# Hi, I'm Ismael Elsayed 👋
-### Data Engineer
+<h1 align="center">Hi 👋, I'm Ismael Elsayed</h1>
+<h3 align="center">Data Engineer | Building Scalable Data Pipelines</h3>
 
-I am a Data Engineer focused on building scalable data pipelines and modern data platforms.  
-I enjoy working with large datasets and designing systems that transform raw data into valuable insights.
+<p align="center">
+Designing modern data architectures, scalable pipelines, and real-time data systems.
+</p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-## 🚀 About Me
+<hr>
 
-- Data Engineer specializing in **ETL / ELT pipelines**
-- Building **data pipeline architectures**
-- Working with **big data processing systems**
-- Interested in **real-time data streaming and analytics platforms**
+<h2>🚀 About Me</h2>
 
----
+<ul>
+<li>Data Engineer passionate about building reliable data systems</li>
+<li>Experience with large-scale data processing</li>
+<li>Focused on ETL pipelines and data architecture</li>
+<li>Interested in real-time analytics and big data platforms</li>
+</ul>
 
-## 🛠 Tech Stack
+<hr>
 
-**Programming**
-- Python
-- SQL
+<h2>🛠 Tech Stack</h2>
 
-**Data Engineering**
-- ETL / ELT Pipelines
-- Data Warehousing
-- Data Modeling
-- Data Processing
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
-**Big Data Tools**
-- Apache Spark
-- Apache Kafka
+<p>
+<img src="https://img.shields.io/badge/SQL-Data%20Engineering-blue" />
+<img src="https://img.shields.io/badge/Apache-Spark-orange" />
+<img src="https://img.shields.io/badge/Apache-Kafka-black" />
+</p>
 
-**Tools**
-- Docker
-- Git
-- Linux
+<hr>
 
----
+<h2>📊 Data Engineering Workflow</h2>
 
-## 📂 Projects
+<pre>
+Data Sources
+      │
+      ▼
+Data Ingestion
+      │
+      ▼
+Data Processing
+      │
+      ▼
+Data Storage
+      │
+      ▼
+Analytics & Dashboards
+</pre>
 
-### Data Pipeline Project
-Building a scalable data pipeline to ingest, process, and store large datasets.
+<hr>
 
-**Tech Used**
+<h2>📂 Featured Projects</h2>
+
+<h3>Scalable Data Pipeline</h3>
+<p>
+A data pipeline for ingesting, processing, and storing large datasets.
+</p>
+
+<b>Technologies:</b>
 Python | Spark | SQL | Docker
 
----
+<br><br>
 
-### Real-Time Data Streaming
-Processing streaming data using Kafka and Spark.
+<h3>Real-Time Data Streaming</h3>
 
-**Tech Used**
+<p>
+Streaming pipeline built using Kafka and Spark for real-time analytics.
+</p>
+
+<b>Technologies:</b>
 Kafka | Spark Streaming | Python
 
----
+<hr>
 
-## ⚙️ Data Engineering Workflow
+<h2>📈 GitHub Stats</h2>
 
-Data Sources  
-⬇  
-Data Ingestion  
-⬇  
-Data Processing  
-⬇  
-Data Storage  
-⬇  
-Analytics & Visualization  
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
 
-## 📫 Contact
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+</p>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+
+<a href="https://linkedin.com/in/yourprofile">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+</a>
+
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+</a>
+
+</p>
+
+<hr>
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories.
+</p>
