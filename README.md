@@ -1,90 +1,61 @@
 <h1 align="center">Hi 👋, I'm Ismael Elsayed</h1>
-<h3 align="center">Data Engineer | Scalable Data Pipelines | Big Data Systems</h3>
+<h3 align="center">Data Engineer | Microsoft Data Engineer Intern @ DEPI</h3>
 
 <p align="center">
-Designing modern data architectures, high-performance data pipelines, and real-time data platforms.
+  Designing modern data architectures, high-performance data pipelines, and real-time data platforms. 
+  <br>Based in Menoufia, Egypt.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=som3a0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=som3a0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<hr>
+---
 
 ## 🚀 Professional Summary
 
-I am a Data Engineer focused on building scalable and reliable data systems that transform raw data into actionable insights. My work involves designing ETL/ELT pipelines, big data processing architectures, real-time streaming systems, and modern data platforms that support analytics and business intelligence.
+I am a Data Engineer focused on building scalable and reliable data systems that transform raw data into actionable insights. Currently participating in the Digital Egypt Pioneers Initiative (DEPI) as a Data Engineer Intern, my work involves designing ETL/ELT pipelines, big data processing architectures, real-time streaming systems, and modern data platforms that support advanced analytics and machine learning.
 
-- Designing scalable **Data Pipeline Architectures**
-- Building **ETL / ELT workflows**
-- Processing **large-scale datasets**
-- Developing **real-time streaming pipelines**
-- Designing **data warehouses and data lakes**
+* Architecting scalable **Data Pipelines**
+* Building robust **ETL / ELT workflows**
+* Processing **large-scale datasets** with distributed computing
+* Developing **real-time streaming** systems
+* Designing **data warehouses and data lakes**
 
-<hr>
+---
 
 ## 🛠 Tech Stack
 
-### Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Programming** | <img src="https://skillicons.dev/icons?i=python,cpp,mysql" height="30" align="top"/> |
+| **Big Data & Streaming** | ![Spark](https://img.shields.io/badge/Apache_Spark-orange?style=flat&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-black?style=flat&logo=apachekafka) ![Hadoop](https://img.shields.io/badge/Apache_Hadoop-yellow?style=flat&logo=apachehadoop) ![Hive](https://img.shields.io/badge/Apache_Hive-yellow?style=flat) |
+| **Architecture** | ![Data Modeling](https://img.shields.io/badge/Data_Modeling-0e75b6?style=flat) ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-2ea44f?style=flat) ![Data Lake](https://img.shields.io/badge/Data_Lake-0e75b6?style=flat) |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb" height="30" align="top"/> ![SQL DB](https://img.shields.io/badge/SQL_Database-blue?style=flat) ![SSMS](https://img.shields.io/badge/SSMS-blue?style=flat) |
+| **Integration (ETL)** | ![SSIS](https://img.shields.io/badge/SSIS-purple?style=flat) |
+| **BI & Apps** | ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=flat&logo=powerbi) <img src="https://skillicons.dev/icons?i=streamlit" height="30" align="top"/> |
+| **DevOps & OS** | <img src="https://skillicons.dev/icons?i=docker,git,linux" height="30" align="top"/> |
 
-### Data Engineering & Big Data
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-02569B?style=flat-square&logo=databricks&logoColor=white" alt="Data Modeling" />
-  <img src="https://img.shields.io/badge/Data%20Warehouse-4CAF50?style=flat-square&logo=amazonaws&logoColor=white" alt="Data Warehouse" />
-  <img src="https://img.shields.io/badge/Data%20Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Data Lake" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
-</p>
-
-### Data Integration
-<p>
-  <img src="https://img.shields.io/badge/SSIS-FF6C37?style=flat-square&logo=microsoft&logoColor=white" alt="SQL Server Integration Services" />
-</p>
-
-### Data Visualization & Apps
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="40" alt="Streamlit" />
-</p>
-
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
-</p>
-
-<hr>
+---
 
 ## 📊 Data Engineering Architecture
 
-```plaintext
-Data Sources
-   │
-   ▼
-Data Ingestion (APIs / Streaming / Batch)
-   │
-   ▼
-Data Processing (Spark / Python)
-   │
-   ▼
-Storage Layer
-(Data Lake / Data Warehouse)
-   │
-   ▼
-Analytics & Visualization
-(Power BI / Dashboards)
+```mermaid
+flowchart LR
+    A[(Data Sources)] -->|Ingestion| B(APIs / Batch)
+    A -->|Streaming| C(Apache Kafka)
+    B --> D{Data Processing\nApache Spark / Python}
+    C --> D
+    D -->|Transform & Load| E[(Storage Layer\nData Lake / Warehouse)]
+    E --> F[Analytics & Visualization\nPower BI / Grafana]
+    E --> G[Machine Learning Models]
+    
+    classDef source fill:#f9f9f9,stroke:#333,stroke-width:2px;
+    classDef process fill:#e1f5fe,stroke:#039be5,stroke-width:2px;
+    classDef storage fill:#fff3e0,stroke:#fb8c00,stroke-width:2px;
+    classDef analytics fill:#e8f5e9,stroke:#43a047,stroke-width:2px;
+    
+    class A source;
+    class B,C,D process;
+    class E storage;
+    class F,G analytics;
