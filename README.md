@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Ismael Elsayed</h1>
 <h3 align="center">Data Engineer | Scalable Data Pipelines | Big Data Systems</h3>
 
@@ -6,85 +7,73 @@ Designing modern data architectures, high-performance data pipelines, and real-t
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=som3a0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <hr>
 
-<h2>🚀 Professional Summary</h2>
+## 🚀 Professional Summary
 
-<p>
-I am a Data Engineer focused on building scalable and reliable data systems that transform raw data into actionable insights.
-My work involves designing ETL/ELT pipelines, big data processing architectures, real-time streaming systems,
-and modern data platforms that support analytics and business intelligence.
-</p>
+I am a Data Engineer focused on building scalable and reliable data systems that transform raw data into actionable insights. My work involves designing ETL/ELT pipelines, big data processing architectures, real-time streaming systems, and modern data platforms that support analytics and business intelligence.
 
-<ul>
-<li>Designing scalable <b>Data Pipeline Architectures</b></li>
-<li>Building <b>ETL / ELT workflows</b></li>
-<li>Processing <b>large-scale datasets</b></li>
-<li>Developing <b>real-time streaming pipelines</b></li>
-<li>Designing <b>data warehouses and data lakes</b></li>
-</ul>
+- Designing scalable **Data Pipeline Architectures**
+- Building **ETL / ELT workflows**
+- Processing **large-scale datasets**
+- Developing **real-time streaming pipelines**
+- Designing **data warehouses and data lakes**
 
 <hr>
 
-<h2>🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
-<h3>Programming</h3>
-
+### Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
 </p>
 
-<h3>Data Engineering & Big Data</h3>
-
+### Data Engineering & Big Data
 <p>
-<img src="https://img.shields.io/badge/Apache-Spark-orange?logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-Kafka-black?logo=apachekafka"/>
-<img src="https://img.shields.io/badge/Apache-Hadoop-yellow?logo=apachehadoop"/>
-<img src="https://img.shields.io/badge/Apache-Hive-yellow"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-blue"/>
-<img src="https://img.shields.io/badge/Data%20Warehouse-green"/>
-<img src="https://img.shields.io/badge/Data%20Lake-blue"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" alt="Apache Hadoop" />
+  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-02569B?style=flat-square&logo=databricks&logoColor=white" alt="Data Modeling" />
+  <img src="https://img.shields.io/badge/Data%20Warehouse-4CAF50?style=flat-square&logo=amazonaws&logoColor=white" alt="Data Warehouse" />
+  <img src="https://img.shields.io/badge/Data%20Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Data Lake" />
 </p>
 
-<h3>Databases</h3>
-
+### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-<img src="https://img.shields.io/badge/SQL-Database-blue"/>
-<img src="https://img.shields.io/badge/SSMS-Microsoft-blue"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
 </p>
 
-<h3>Data Integration</h3>
-
+### Data Integration
 <p>
-<img src="https://img.shields.io/badge/SSIS-ETL%20Tool-purple"/>
+  <img src="https://img.shields.io/badge/SSIS-FF6C37?style=flat-square&logo=microsoft&logoColor=white" alt="SQL Server Integration Services" />
 </p>
 
-<h3>Data Visualization & Apps</h3>
-
+### Data Visualization & Apps
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi"/>
-<img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://skillicons.dev/icons?i=streamlit" height="40" alt="Streamlit" />
 </p>
 
-<h3>DevOps & Tools</h3>
-
+### DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
 </p>
 
 <hr>
 
-<h2>📊 Data Engineering Architecture</h2>
+## 📊 Data Engineering Architecture
 
-<pre>
+```plaintext
 Data Sources
    │
    ▼
@@ -100,77 +89,55 @@ Storage Layer
    ▼
 Analytics & Visualization
 (Power BI / Dashboards)
-</pre>
+```
 
 <hr>
 
-<h2>📂 Featured Projects</h2>
+## 📂 Featured Projects
 
-<h3>Scalable Data Pipeline</h3>
-
-<p>
+### Scalable Data Pipeline
 A modern data pipeline designed to ingest, transform, and store large datasets for analytics and reporting.
-</p>
 
-<b>Technologies</b>
+**Technologies:** Python | Spark | SQL | Docker
 
-Python | Spark | SQL | Docker
-
-<br><br>
-
-<h3>Real-Time Streaming System</h3>
-
-<p>
+### Real-Time Streaming System
 A real-time streaming architecture using distributed messaging and processing frameworks.
-</p>
 
-<b>Technologies</b>
+**Technologies:** Kafka | Spark Streaming | Python
 
-Kafka | Spark Streaming | Python
+### Data Warehouse Analytics Platform
+A structured analytics platform that integrates multiple data sources into a centralized warehouse for business intelligence dashboards.
 
-<br><br>
-
-<h3>Data Warehouse Analytics Platform</h3>
-
-<p>
-A structured analytics platform that integrates multiple data sources into a centralized warehouse
-for business intelligence dashboards.
-</p>
-
-<b>Technologies</b>
-
-SQL | SSIS | Power BI
+**Technologies:** SQL | SSIS | Power BI
 
 <hr>
 
-<h2>📈 GitHub Statistics</h2>
+## 📈 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=som3a0&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=som3a0&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <hr>
 
-<h2>📫 Connect With Me</h2>
+## 📫 Connect With Me
 
 <p>
-
-<a href="https://www.linkedin.com/in/ismael-khalifa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F0VHcNf2TEibD9YXTGWzVA%3D%3D">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
-</a>
-
-<a href="https://github.com/som3a0">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
-</a>
-
+  <a href="https://www.linkedin.com/in/ismael-khalifa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/som3a0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <hr>
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories.
+  ⭐ If you like my work, consider starring my repositories.
 </p>
+```
