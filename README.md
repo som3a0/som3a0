@@ -1,63 +1,76 @@
-  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 I’m currently a Graduate Research student in ML at Georgia Tech.
-  - 🌱 I’m currently learning Machine Learning and Big Data
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
-  
-  #### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
-  [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
-  
-  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+# Hi, I'm Ismael Elsayed 👋
+### Data Engineer
 
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1635.00  ┤                                                                                                 ╭╮
- 1624.50  ┤                                                                                                 ││
- 1614.00  ┤                                                                                        ╭╮   ╭╮  │╰
- 1603.50  ┤                                                                                       ╭╯╰───╯╰╮╭╯
- 1593.00  ┤                                                                                   ╭╮╭─╯       ││
- 1582.50  ┤                                                                                ╭╮╭╯╰╯         ╰╯
- 1572.00  ┤                        ╭╮                                                    ╭─╯╰╯
- 1561.50  ┤                       ╭╯╰╮╭╮                                    ╭╮╭╮╭╮      ╭╯
- 1551.00  ┤                  ╭────╯  ╰╯╰─╮     ╭╮              ╭╮  ╭╮    ╭──╯╰╯╰╯╰────╮╭╯
- 1540.50  ┤                ╭─╯           ╰╮  ╭─╯╰─╮         ╭╮╭╯╰╮╭╯╰╮  ╭╯            ╰╯
- 1530.00  ┤               ╭╯              ╰──╯    ╰─╮      ╭╯╰╯  ╰╯  ╰──╯
- 1519.50  ┤              ╭╯                         ╰╮   ╭─╯
- 1509.00  ┼─╮           ╭╯                           ╰─╮╭╯
- 1498.50  ┤ ╰─╮        ╭╯                              ╰╯
- 1488.00  ┤   ╰╮ ╭─────╯
- 1477.50  ┤    ╰─╯
- 1467.00  ┤
+I am a Data Engineer focused on building scalable data pipelines and modern data platforms.  
+I enjoy working with large datasets and designing systems that transform raw data into valuable insights.
 
-Chart last updated - Thu Mar 12 08:13:15 EDT 2026  
-  ```
-  
+---
+
+## 🚀 About Me
+
+- Data Engineer specializing in **ETL / ELT pipelines**
+- Building **data pipeline architectures**
+- Working with **big data processing systems**
+- Interested in **real-time data streaming and analytics platforms**
+
+---
+
+## 🛠 Tech Stack
+
+**Programming**
+- Python
+- SQL
+
+**Data Engineering**
+- ETL / ELT Pipelines
+- Data Warehousing
+- Data Modeling
+- Data Processing
+
+**Big Data Tools**
+- Apache Spark
+- Apache Kafka
+
+**Tools**
+- Docker
+- Git
+- Linux
+
+---
+
+## 📂 Projects
+
+### Data Pipeline Project
+Building a scalable data pipeline to ingest, process, and store large datasets.
+
+**Tech Used**
+Python | Spark | SQL | Docker
+
+---
+
+### Real-Time Data Streaming
+Processing streaming data using Kafka and Spark.
+
+**Tech Used**
+Kafka | Spark Streaming | Python
+
+---
+
+## ⚙️ Data Engineering Workflow
+
+Data Sources  
+⬇  
+Data Ingestion  
+⬇  
+Data Processing  
+⬇  
+Data Storage  
+⬇  
+Analytics & Visualization  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
