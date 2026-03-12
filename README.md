@@ -1,10 +1,10 @@
 <!-- ══════════════════════════════════════════════════════════════
-     ISMAEL KHALIFA — Senior Data Engineer · GitHub README
+     ISMAEL KHALIFA — Data Engineer · GitHub README
      ══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a2744,100:00b4d8&height=210&section=header&text=Ismael%20Elsayed&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Engineer%20%7C%20Big%20Data%20%7C%20Real-Time%20Systems&descSize=17&descAlignY=62&descColor=90e0ef" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0a2744,100:00b4d8&height=210&section=header&text=Ismael%20Khalifa&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Big%20Data%20%7C%20Real-Time%20Systems&descSize=17&descAlignY=62&descColor=90e0ef" width="100%" alt="header"/>
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=som3a0&label=PROFILE+VIEWS&color=00b4d8&style=flat-square)
 ![Status](https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-2ea043?style=flat-square)
-![Location](https://img.shields.io/badge/LOCATION-Cairo%2C%20Egypt-ffb300?style=flat-square)
+![Location](https://img.shields.io/badge/LOCATION-Egypt-ffb300?style=flat-square)
 ![Program](https://img.shields.io/badge/PROGRAM-DEPI-00b4d8?style=flat-square)
 
 </div>
@@ -25,9 +25,15 @@
 
 ## ⚡ About Me
 
-<img src="./assets/about_me.svg" width="100%" alt="About Me"/>
-
-<br/>
+```python
+class DataEngineer:
+    name       = "Ismael Khalifa"
+    location   = "Egypt"
+    focus      = ["Real-Time Pipelines", "Big Data Architecture", "Data Lakehouses"]
+    languages  = ["Python", "SQL", "C++", "Bash"]
+    currently  = "Building a Smart City IoT Safety Monitoring Platform — DEPI"
+    open_to    = "Data Engineering  ·  Analytics Engineering  ·  Platform Engineering"
+```
 
 > I design and build **end-to-end data infrastructure** — from raw ingestion through distributed
 > processing to analytics-ready storage. My projects prioritise fault tolerance, real-time
@@ -228,7 +234,7 @@ dashboards with KPI tracking and trend analysis.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:0a2744,100:0D1117&height=120&section=footer&desc=Built%20with%20precision%20%C2%B7%20Cairo%2C%20Egypt&descAlignY=65&descSize=13&descColor=4a6080" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:0a2744,100:0D1117&height=120&section=footer&desc=Built%20with%20precision%20%C2%B7%20Egypt&descAlignY=65&descSize=13&descColor=4a6080" width="100%" alt="footer"/>
 
 *⭐ If my work helped you — a star on the repo means a lot.*
 
