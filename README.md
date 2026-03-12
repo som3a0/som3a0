@@ -159,11 +159,11 @@ SQL | SSIS | Power BI
 
 <p>
 
-<a href="https://www.linkedin.com/in/ismael-khalifa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2F0VHcNf2TEibD9YXTGWzVA%3D%3D">
+<a href="www.linkedin.com/in/ismael-khalifa">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/som3a0">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
 </a>
 
