@@ -230,6 +230,8 @@ dashboards with KPI tracking and trend analysis.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael%20Khalifa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-khalifa/)
 &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-ismael.elsayed.khalifa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismael.elsayed.khalifa@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-som3a0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/som3a0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ismaelkhalifa.netlify.app-00c8e8?style=for-the-badge&logo=netlify&logoColor=white)](https://ismaelkhalifa.netlify.app/)
 <br/>
