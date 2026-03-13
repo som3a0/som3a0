@@ -231,7 +231,7 @@ dashboards with KPI tracking and trend analysis.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismael%20Khalifa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-khalifa/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-som3a0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/som3a0)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-ismaelkhalifa.netlify.app-00c8e8?style=for-the-badge&logo=netlify&logoColor=white)](https://ismaelkhalifa.netlify.app/)
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:0a2744,100:0D1117&height=120&section=footer&desc=Built%20with%20precision%20%C2%B7%20Egypt&descAlignY=65&descSize=13&descColor=4a6080" width="100%" alt="footer"/>
